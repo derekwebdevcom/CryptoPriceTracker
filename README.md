@@ -21,7 +21,7 @@ This project uses the following technologies:
 
 Please ensure you have all the above dependencies installed on your system 
 
--[Clone] https://github.com/derekwebdevcom/CryptoPriceTracker.git for Mac and Linux or
+-[Clone](https://github.com/derekwebdevcom/CryptoPriceTracker.git) for Mac and Linux or
 -[Download Zip](https://github.com/derekwebdevcom/CryptoPriceTracker/archive/main.zip) for Windows
 
 ## Quick Start:
