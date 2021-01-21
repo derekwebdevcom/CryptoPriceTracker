@@ -7,7 +7,7 @@ Track Crypto Prices and Marketcaps
 
 # Live Demo 
 
-http://crypto-tracker.derekwebdev.com/#/
+[Click Here](https://crypto-tracker.derekwebdev.com)
 
 Crypto Price Tracker allows you to monitor price changes and fluctuations via public API
 
