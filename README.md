@@ -26,6 +26,6 @@ Please ensure you have all the above dependencies installed on your system
 
 ## Quick Start:
 
-// NPM install and Client Application ports on
+NPM install and Client Application ports on
  http://localhost:3000
  
