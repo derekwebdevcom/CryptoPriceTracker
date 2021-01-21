@@ -3,6 +3,7 @@ import React, {useState, useEffect} from 'react';
 import './App.css';
 import Coin from './Coin';
 import './Coin.css'
+import logo from './logo.png'
 
 // https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false
 function App() {
@@ -29,6 +30,7 @@ const filteredCoins = coins.filter(coin =>
 
   return (
     <div className="coin-app">
+      <img src={logo} alt="Logo" height="300px" width="450px"/>
      <div className="coin-search">
        <h1 className="coin-text">Search by currency</h1>
        <form>
