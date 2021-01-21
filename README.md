@@ -9,7 +9,7 @@ Track Crypto Prices and Marketcaps
 
 http://crypto-tracker.derekwebdev.com/#/
 
-rypto Price Tracker allows you to monitor price changes and fluctuations via public API
+Crypto Price Tracker allows you to monitor price changes and fluctuations via public API
 
 This project uses the following technologies:
 
