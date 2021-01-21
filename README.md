@@ -15,6 +15,7 @@ This project uses the following technologies:
 
 - [React.js](https://reactjs.org) and [React Router](https://reacttraining.com/react-router/) for frontend
 - [Node.js](https://nodejs.org/en/) as the package manager
+- [Yarn](https://yarnpkg.com/)
 
 
 ## Configuration
@@ -26,6 +27,6 @@ Please ensure you have all the above dependencies installed on your system
 
 ## Quick Start:
 
-NPM install and Client Application ports on
+NPM or Yarn install and Client Application ports on
  http://localhost:3000
  
