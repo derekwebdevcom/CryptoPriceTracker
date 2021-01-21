@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# Crypto Price Tracker
+Track Crypto Prices and Marketcaps
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React.js, Hooks, Market data API
 
-## Available Scripts
+![Final App](https://github.com/derekwebdevcom/CryptoPriceTracker/blob/main/crypto-tracker.gif)
 
-In the project directory, you can run:
+# Live Demo 
 
-### `yarn start`
+http://crypto-tracker.derekwebdev.com/#/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+rypto Price Tracker allows you to monitor price changes and fluctuations via public API
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+This project uses the following technologies:
 
-### `yarn test`
+- [React.js](https://reactjs.org) and [React Router](https://reacttraining.com/react-router/) for frontend
+- [Node.js](https://nodejs.org/en/) as the package manager
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+## Configuration
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Please ensure you have all the above dependencies installed on your system 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+-[Clone] https://github.com/derekwebdevcom/CryptoPriceTracker.git for Mac and Linux or
+-[Download Zip](https://github.com/derekwebdevcom/CryptoPriceTracker/archive/main.zip) for Windows
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Quick Start:
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+// NPM install and Client Application ports on
+ http://localhost:3000
+ 
